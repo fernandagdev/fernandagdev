@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Fernanda Gonzales
 
-<!--
-**fernandagdev/fernandagdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Student  
+🤖 AI & Automation Enthusiast  
+📱 Mobile Development Environment Builder  
+🐧 Linux • Python • Git • Open Source  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a Software Engineering student focused on building real projects using Artificial Intelligence, automation and mobile development environments.
+
+Currently learning and building daily using:
+
+- Python
+- Git & GitHub
+- Linux (Termux Mobile Dev)
+- AI Automation
+- Backend Fundamentals
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- Git
+- Linux
+- Automation Tools
+- AI Assisted Development
+
+---
+
+## 📈 Current Goals
+
+- Build real-world projects
+- Contribute to open source
+- Work with international clients
+- Grow as AI + Software Engineer
+
+---
+
+## 🌎 Connect with Me
+
+📧 fernandaoliveira9140@gmail.com
+
+---
+
+⭐ Building real projects daily.
