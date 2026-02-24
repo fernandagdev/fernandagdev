@@ -1,28 +1,22 @@
 # Fernanda Gonzales 👩‍💻
 
-💻 Remote Frontend Debugging Specialist
+💻 Remote Frontend Debugging & Responsive Fixes  
+I help businesses fix broken layouts, CSS conflicts, JavaScript issues and mobile responsiveness problems — fast.
 
-I help businesses fix broken websites, layout issues and responsive problems quickly.
-
-✔ Fast bug investigation  
-✔ Clean responsive fixes  
-✔ Real debugging workflow  
-✔ Clear communication for remote teams
-
-Frontend Debugging • Website Bug Fix Specialist • Remote Frontend Developer
-
-I help businesses solve real website problems:
-broken layouts, CSS conflicts, JavaScript issues and mobile responsiveness fixes.
+✅ Fast bug investigation (DevTools + reproducible steps)  
+✅ Clean responsive fixes (mobile-first)  
+✅ Practical debugging workflow (before/after)  
+✅ Clear communication for remote teams
 
 ---
 
 ## 🚀 What I Do
 
-✅ Fix broken website layouts  
-✅ Debug HTML / CSS / JavaScript issues  
-✅ Improve responsive behavior (mobile & desktop)  
-✅ Investigate WordPress theme & plugin conflicts  
-✅ Clean UI alignment and visual bugs  
+- ✅ Fix broken website layouts (spacing, alignment, grids, flexbox)
+- ✅ Debug HTML / CSS / JavaScript issues
+- ✅ Improve responsive behavior (mobile & desktop)
+- ✅ Investigate WordPress theme & plugin conflicts
+- ✅ Clean UI alignment and visual bugs
 
 ---
 
@@ -34,21 +28,19 @@ broken layouts, CSS conflicts, JavaScript issues and mobile responsiveness fixes
 - Responsive Design
 - Git & GitHub
 - Browser DevTools
-- Linux / Termux Development Environment
+- Linux / Termux (Mobile Development Environment)
 
 ---
 
 ## 📌 Featured Projects
 
-### Website Bug Fix Lab
-Real debugging examples with before/after fixes.
+### 🔗 Website Bug Fix Lab
+Real debugging examples with before/after fixes.  
+👉 https://github.com/fernandagdev/website-bugfix-lab
 
-👉 https://github.com/fernandadgev/website-bugfix-lab
-
-### Dev Mobile Setup
-Complete development environment running from Android using Termux, Git and Linux tools.
-
-👉 https://github.com/fernandadgev/dev-mobile-setup
+### 🔗 Dev Mobile Setup
+Complete development environment running from Android using Termux, Git and Linux tools.  
+👉 https://github.com/fernandagdev/dev-mobile-setup
 
 ---
 
@@ -61,15 +53,12 @@ Complete development environment running from Android using Termux, Git and Linu
 
 ---
 
-## 📫 Contact
+## 📬 Contact
 
-GitHub: https://github.com/fernandadgev  
+GitHub: https://github.com/fernandagdev  
 Email: fernandaoliveira9140@gmail.com
 
 ---
 
-⭐ Available for freelance work
-
-If you need help fixing website issues, improving responsiveness or debugging frontend problems, feel free to reach out.
-
-📩 Open to remote international projects
+⭐ Available for freelance work  
+Send me the page link + a screenshot of the issue and I’ll tell you the fix path quickly.
