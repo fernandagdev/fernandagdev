@@ -1,6 +1,6 @@
 # Fernanda Gonzales 👩‍💻
 
-Frontend Debugging • Website Bug Fix • Responsive Layout Specialist
+Frontend Debugging • Website Bug Fix Specialist • Remote Developer
 
 I solve real-world website problems: broken layouts, CSS conflicts, JavaScript issues and mobile responsiveness fixes.
 
