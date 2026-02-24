@@ -1,6 +1,6 @@
 # Fernanda Gonzales 👩‍💻
 
-Software Engineering Student | Mobile Developer
+Software Engineering | Mobile Developer
 
 ## 🚀 About Me
 Building software directly from mobile using Termux, Git and AI tools.
@@ -19,7 +19,7 @@ Remote international software engineering career.
 
 # 👋 Hi, I'm Fernanda Gonzales
 
-💻 Software Engineering Student  
+💻 Software Engineering  
 🤖 AI & Automation Enthusiast  
 📱 Mobile Development Environment Builder  
 🐧 Linux • Python • Git • Open Source  
@@ -28,7 +28,7 @@ Remote international software engineering career.
 
 ## 🚀 About Me
 
-I am a Software Engineering student focused on building real projects using Artificial Intelligence, automation and mobile development environments.
+I am a Software Engineering focused on building real projects using Artificial Intelligence, automation and mobile development environments.
 
 Currently learning and building daily using:
 k- Git & GitHub
