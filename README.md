@@ -2,24 +2,30 @@
 
 🌎 Available for Remote International Projects
 
-Frontend Debugging Specialist | Website Bug Fix Expert
+💻 Frontend Debugging Specialist  
+Fixing broken websites, CSS conflicts and responsive issues worldwide.
 
-I fix broken layouts, CSS conflicts and mobile responsiveness issues for businesses and startups worldwide.
+I investigate real interface problems and deliver clean, reliable fixes for startups, businesses and development teams.
 
-✅ Fast bug investigation (DevTools workflow)  
-✅ Clean responsive fixes (mobile-first approach)  
-✅ Real debugging process (before / after)  
-✅ Clear communication for remote teams  
+---
+
+## ⚡ Why Clients Hire Me
+
+- I investigate bugs instead of guessing fixes
+- Clean and minimal code changes
+- Mobile-first debugging approach
+- Clear communication during the fix process
+- Fast identification of root cause
 
 ---
 
 ## 🚀 What I Do
 
-- ✅ Fix broken website layouts (spacing, alignment, grids, flexbox)
-- ✅ Debug HTML / CSS / JavaScript issues
-- ✅ Improve responsive behavior (mobile & desktop)
-- ✅ Investigate WordPress theme & plugin conflicts
-- ✅ Fix visual UI bugs and inconsistencies
+✅ Fix broken website layouts (spacing, alignment, grids, flexbox)  
+✅ Debug HTML / CSS / JavaScript issues  
+✅ Improve responsive behavior (mobile & desktop)  
+✅ Investigate WordPress theme & plugin conflicts  
+✅ Fix visual UI bugs and inconsistencies  
 
 ---
 
@@ -40,12 +46,25 @@ I fix broken layouts, CSS conflicts and mobile responsiveness issues for busines
 ### 🔗 Website Bug Fix Lab
 Real debugging examples with before/after fixes.
 
-👉 https://github.com/fernandagdev/website-bugfix-lab
+👉 https://github.com/fernandadgdev/website-bugfix-lab
 
 ### 🔗 Dev Mobile Setup
 Complete development environment running from Android using Termux, Git and Linux tools.
 
-👉 https://github.com/fernandagdev/dev-mobile-setup
+👉 https://github.com/fernandadgdev/dev-mobile-setup
+
+---
+
+## 🧪 Real Debugging Approach
+
+Every fix follows:
+
+1. Reproduce the issue
+2. Inspect using DevTools
+3. Identify the root cause
+4. Apply minimal and safe fix
+5. Test responsive behavior
+6. Deliver before/after proof
 
 ---
 
@@ -54,7 +73,9 @@ Complete development environment running from Android using Termux, Git and Linu
 - Remote international projects
 - Frontend debugging & UI fixes
 - Practical real-world problem solving
-- Continuous real-world project delivery
+- Continuous real project delivery
+
+---
 
 ## 💼 Services
 
@@ -63,12 +84,12 @@ Complete development environment running from Android using Termux, Git and Linu
 - Mobile responsiveness fixes
 - Frontend debugging investigation
 - WordPress UI issue fixing
-  
+
 ---
 
 ## 📬 Contact
 
-GitHub: https://github.com/fernandagdev  
+GitHub: https://github.com/fernandadgdev  
 Email: fernandaoliveira9140@gmail.com
 
 ---
@@ -76,8 +97,9 @@ Email: fernandaoliveira9140@gmail.com
 ⭐ **Available for freelance work**
 
 Send me:
-- the page link  
-- a screenshot of the issue  
+
+- the page link
+- a screenshot of the issue
 
 and I’ll quickly identify the fix path.
 
@@ -96,7 +118,3 @@ Simple problems deserve fast solutions.
 ---
 
 ⭐ Currently focused on frontend debugging and real-world fixes.
-
----
-
-⭐ Helping businesses fix real frontend problems worldwide.
