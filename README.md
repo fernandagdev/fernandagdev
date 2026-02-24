@@ -1,8 +1,10 @@
 # Fernanda Gonzales 👩‍💻
 
-💻 Remote Frontend Debugging & Responsive Fix Specialist
+🌎 Available for Remote International Projects
 
-I help businesses fix broken websites, layout issues and mobile responsiveness problems quickly and cleanly.
+Frontend Debugging Specialist | Website Bug Fix Expert
+
+I fix broken layouts, CSS conflicts and mobile responsiveness issues for businesses and startups worldwide.
 
 ✅ Fast bug investigation (DevTools workflow)  
 ✅ Clean responsive fixes (mobile-first approach)  
@@ -52,7 +54,7 @@ Complete development environment running from Android using Termux, Git and Linu
 - Remote international projects
 - Frontend debugging & UI fixes
 - Practical real-world problem solving
-- Continuous project building
+- Continuous real-world project delivery
 
 ---
 
@@ -70,3 +72,19 @@ Send me:
 - a screenshot of the issue  
 
 and I’ll quickly identify the fix path.
+
+---
+
+## ⚡ Quick Help
+
+If your website has a bug:
+
+1. Send the page link
+2. Send a screenshot
+3. I’ll identify the fix direction fast
+
+Simple problems deserve fast solutions.
+
+---
+
+⭐ Currently focused on frontend debugging and real-world fixes.
