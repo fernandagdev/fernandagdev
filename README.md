@@ -56,6 +56,14 @@ Complete development environment running from Android using Termux, Git and Linu
 - Practical real-world problem solving
 - Continuous real-world project delivery
 
+## 💼 Services
+
+- Website bug fixing
+- CSS layout corrections
+- Mobile responsiveness fixes
+- Frontend debugging investigation
+- WordPress UI issue fixing
+  
 ---
 
 ## 📬 Contact
@@ -88,3 +96,7 @@ Simple problems deserve fast solutions.
 ---
 
 ⭐ Currently focused on frontend debugging and real-world fixes.
+
+---
+
+⭐ Helping businesses fix real frontend problems worldwide.
