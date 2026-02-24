@@ -1,8 +1,18 @@
 # Fernanda Gonzales 👩‍💻
 
+💻 Remote Frontend Debugging Specialist
+
+I help businesses fix broken websites, layout issues and responsive problems quickly.
+
+✔ Fast bug investigation  
+✔ Clean responsive fixes  
+✔ Real debugging workflow  
+✔ Clear communication for remote teams
+
 Frontend Debugging • Website Bug Fix Specialist • Remote Developer
 
-I solve real-world website problems: broken layouts, CSS conflicts, JavaScript issues and mobile responsiveness fixes.
+I help businesses solve real website problems:
+broken layouts, CSS conflicts, JavaScript issues and mobile responsiveness fixes.
 
 ---
 
