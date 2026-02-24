@@ -1,12 +1,13 @@
 # Fernanda Gonzales 👩‍💻
 
-💻 Remote Frontend Debugging & Responsive Fixes  
-I help businesses fix broken layouts, CSS conflicts, JavaScript issues and mobile responsiveness problems — fast.
+💻 Remote Frontend Debugging & Responsive Fix Specialist
 
-✅ Fast bug investigation (DevTools + reproducible steps)  
-✅ Clean responsive fixes (mobile-first)  
-✅ Practical debugging workflow (before/after)  
-✅ Clear communication for remote teams
+I help businesses fix broken websites, layout issues and mobile responsiveness problems quickly and cleanly.
+
+✅ Fast bug investigation (DevTools workflow)  
+✅ Clean responsive fixes (mobile-first approach)  
+✅ Real debugging process (before / after)  
+✅ Clear communication for remote teams  
 
 ---
 
@@ -16,7 +17,7 @@ I help businesses fix broken layouts, CSS conflicts, JavaScript issues and mobil
 - ✅ Debug HTML / CSS / JavaScript issues
 - ✅ Improve responsive behavior (mobile & desktop)
 - ✅ Investigate WordPress theme & plugin conflicts
-- ✅ Clean UI alignment and visual bugs
+- ✅ Fix visual UI bugs and inconsistencies
 
 ---
 
@@ -28,18 +29,20 @@ I help businesses fix broken layouts, CSS conflicts, JavaScript issues and mobil
 - Responsive Design
 - Git & GitHub
 - Browser DevTools
-- Linux / Termux (Mobile Development Environment)
+- Linux / Termux Development Environment
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔗 Website Bug Fix Lab
-Real debugging examples with before/after fixes.  
+Real debugging examples with before/after fixes.
+
 👉 https://github.com/fernandagdev/website-bugfix-lab
 
 ### 🔗 Dev Mobile Setup
-Complete development environment running from Android using Termux, Git and Linux tools.  
+Complete development environment running from Android using Termux, Git and Linux tools.
+
 👉 https://github.com/fernandagdev/dev-mobile-setup
 
 ---
@@ -48,8 +51,8 @@ Complete development environment running from Android using Termux, Git and Linu
 
 - Remote international projects
 - Frontend debugging & UI fixes
-- Practical problem solving
-- Continuous real-world project building
+- Practical real-world problem solving
+- Continuous project building
 
 ---
 
@@ -60,5 +63,10 @@ Email: fernandaoliveira9140@gmail.com
 
 ---
 
-⭐ Available for freelance work  
-Send me the page link + a screenshot of the issue and I’ll tell you the fix path quickly.
+⭐ **Available for freelance work**
+
+Send me:
+- the page link  
+- a screenshot of the issue  
+
+and I’ll quickly identify the fix path.
