@@ -1,6 +1,11 @@
 # Fernanda Gonzales
 
 Frontend Debugging & Website Optimization Engineer  
+Helping businesses fix real production website issues.
+
+Open to Remote Contract Opportunities
+
+Frontend Debugging & Website Optimization Engineer  
 Production Websites • Technical SEO • Performance Fixes
 
 ---
