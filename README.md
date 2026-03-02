@@ -3,8 +3,11 @@
 Frontend Debugging & Website Optimization Engineer  
 Helping businesses fix real production website issues.
 
-🌐 Live Production Website: https://stackorytech.com  
-📂 Case Study Repository: https://github.com/fernandagdev/stackory-tech-case  
+🌐 **Live Production Website**  
+https://stackorytech.com
+
+📂 **Production Case Study**  
+https://github.com/fernandagdev/stackory-tech-case
 
 Open to Remote Contract Opportunities
 
@@ -16,15 +19,15 @@ Production Websites • Technical SEO • Performance Fixes
 
 I work on real production websites solving layout bugs, responsive issues and frontend inconsistencies.
 
-Focused on clean fixes, root-cause investigation and performance improvement.
+Focused on root-cause debugging, clean fixes and performance improvement in live environments.
 
 ---
 
 ## What Clients Usually Need
 
-• Broken mobile layout fixes  
-• CSS alignment and spacing problems  
-• WordPress UI issues  
+• Broken mobile layouts  
+• CSS alignment and spacing issues  
+• WordPress UI problems  
 • Performance and SEO corrections  
 • Emergency production bug fixing  
 
@@ -43,26 +46,30 @@ Focused on clean fixes, root-cause investigation and performance improvement.
 
 ## Featured Production Work
 
-### Production Website Snapshot
-
-![Stackory Tech Website](https://stackorytech.com/wp-content/uploads/2026/02/stackory-preview.jpg)
-
 ### Stackory Tech — Production Website Engineering
 
-Live Website: https://stackorytech.com  
-Case Study: https://github.com/fernandagdev/stackory-tech-case  
+🌐 Live Website  
+https://stackorytech.com
 
-Real production environment focused on SEO architecture, performance optimization and continuous publishing workflow.
+📂 Case Study Repository  
+https://github.com/fernandagdev/stackory-tech-case
+
+Real production environment focused on:
+
+• SEO architecture  
+• Performance optimization  
+• Responsive engineering  
+• Continuous publishing workflow
 
 ---
 
 ## Selected Projects
 
-**Website Bug Fix Lab**  
+### Website Bug Fix Lab
 Real debugging cases with before/after solutions  
 https://github.com/fernandagdev/website-bugfix-lab
 
-**Dev Mobile Setup**  
+### Dev Mobile Setup
 Linux development environment running from Android  
 https://github.com/fernandagdev/dev-mobile-setup
 
@@ -81,9 +88,9 @@ Responsive Design • SEO Optimization
 
 • Fast diagnosis  
 • Root-cause debugging  
-• Clean and minimal fixes  
+• Minimal and safe fixes  
 • Production-safe deployment  
-• Clear communication  
+• Clear async communication  
 
 ---
 
