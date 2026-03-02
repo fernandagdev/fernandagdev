@@ -5,7 +5,6 @@ Helping businesses fix real production website issues.
 
 Open to Remote Contract Opportunities
 
-Frontend Debugging & Website Optimization Engineer  
 Production Websites • Technical SEO • Performance Fixes
 
 ---
@@ -15,6 +14,16 @@ Production Websites • Technical SEO • Performance Fixes
 I work on real production websites solving layout bugs, responsive issues and frontend inconsistencies.
 
 Focused on clean fixes, root-cause investigation and performance improvement.
+
+---
+
+## What Clients Usually Need
+
+• Broken mobile layout fixes  
+• CSS alignment and spacing problems  
+• WordPress UI issues  
+• Performance and SEO corrections  
+• Emergency production bug fixing
 
 ---
 
