@@ -1,5 +1,9 @@
 # Fernanda Gonzales
 
+🚀 Production Web Engineer  
+🌍 Remote Contract Available  
+⚡ Specialized in Live Website Debugging
+
 Frontend Debugging & Website Optimization Engineer  
 Helping businesses fix real production website issues.
 
